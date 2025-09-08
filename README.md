@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/saber-ghoudi-ab6251207" target="_blank">
+  <a href="https://www.linkedin.com/in/saber-g-ab6251207" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="mailto:saberghoudi2222@hotmail.fr">
