@@ -5,7 +5,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djerbiano&layout=compact&theme=dracula&hide_border=false&langs_count=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djerbiano&theme=dracula" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=djerbiano&theme=dracula" />
 </div>
 
 ###
